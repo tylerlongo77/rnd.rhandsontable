@@ -25,10 +25,11 @@ Authors@R: c(
   person("Rohan", "Jon", role = c("ctb", "cph"), comment = "ZeroClipboard library"),
   person("Greene", "James", role = c("ctb", "cph"), comment = "ZeroClipboard library"),
   person("Hammill", "Dillon", role = c("ctb")))
-Maintainer: Jonathan Owen <jonathanro@gmail.com>
+Maintainer: Tyler Longo <tyler.longo@pinnacle.com>
+MaintainerSlack: @tylerl
 Description: An R interface to the 'Handsontable' JavaScript library, which is a
     minimalist Excel-like data grid editor.  See <https://handsontable.com/> for details.
-License: MIT + file LICENSE
+License: file LICENSE
 URL: http://jrowen.github.io/rhandsontable/
 BugReports: https://github.com/jrowen/rhandsontable/issues
 Imports:
