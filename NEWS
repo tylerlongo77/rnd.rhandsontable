@@ -1,3 +1,9 @@
+rhandsontable 0.3.9.9000
+-------------------------
+
+* This package is no longer maintained, and broke with the release of R 4.3. Tyler fixed it and deployed
+an internal RnD version.
+
 rhandsontable 0.3.8
 -------------------------
 
